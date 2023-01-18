@@ -1,0 +1,46 @@
+{
+    "streamer1": {
+        "gender": "1",
+        "age": 2,
+        "location": "安徽",
+        "character": 9,
+        "fans_num": 1,
+        "live_time": 2,
+        "reply_barrage": 1,
+        "audiences": 1,
+        "skill": null
+    },
+    "streamer2": {
+        "gender": "1",
+        "age": 3,
+        "location": "安徽",
+        "character": 9,
+        "fans_num": 3,
+        "live_time": 3,
+        "reply_barrage": 1,
+        "audiences": 2,
+        "skill": 2
+    },
+    "streamer3": {
+        "gender": "1",
+        "age": 3,
+        "location": "北京",
+        "character": 34,
+        "fans_num": 1,
+        "live_time": null,
+        "reply_barrage": 1,
+        "audiences": 1,
+        "skill": null
+    },
+    "streamer4": {
+        "gender": "1",
+        "age": 2,
+        "location": "内蒙古",
+        "character": 34,
+        "fans_num": 2,
+        "live_time": 2,
+        "reply_barrage": 1,
+        "audiences": 1,
+        "skill": 2
+    }
+}
