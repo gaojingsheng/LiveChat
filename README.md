@@ -20,4 +20,4 @@ Instructions of how to run these models on the two tasks are described in their 
 |   +-- basic_profile.json
 |   +-- text_profile.json
 ```
-We will public our raw data and processing code upon acceptance.
+Dataset folder provides samples of our LiveChat, and we will public our raw data and processing code upon acceptance.
