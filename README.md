@@ -21,3 +21,5 @@ Instructions of how to run these models on the two tasks are described in their 
 |   +-- text_profile.json
 ```
 Dataset folder provides samples of our LiveChat, and we will public our raw data and processing code upon acceptance.
+
+## Citation
