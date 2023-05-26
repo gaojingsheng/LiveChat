@@ -1,4 +1,4 @@
-name: EVA
+name: LiveChat
 channels:
   - pytorch
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
@@ -198,4 +198,4 @@ dependencies:
     - xxhash==3.0.0
     - yarl==1.8.1
     - zipp==3.8.1
-prefix: /mnt/user/gaojingsheng/anaconda3/envs/EVA
+prefix: /mnt/user/gaojingsheng/anaconda3/envs/LiveChat
