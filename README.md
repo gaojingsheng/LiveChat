@@ -22,6 +22,6 @@ Instructions of how to run these models on the two tasks are described in their 
 |   +-- text_profile.json
 ```
 
-We will public our data soon!
+We will public all our data soon!
 
 ## Citation
