@@ -6,9 +6,9 @@ LiveChat is a large-scale dataset, composed of 1.33 million real-life Chinese di
 
 This repo implements two benchmark tasks (Response Modeling and Addressee Recognition) and a generation task (Generation) for LiveChat:
 
-- Response Modeling (Retrival-based)
-- Addressee Recognition 
-- Generation (BART)
+- [Response Modeling](https://github.com/gaojingsheng/LiveChat/tree/master/Tasks/ResponseModeling) (Retrival-based) 
+- [Addressee Recognition](https://github.com/gaojingsheng/LiveChat/tree/master/Tasks/AddresseeRecognition)
+- [Generation](https://github.com/gaojingsheng/LiveChat/tree/master/Tasks/Generation) (BART)
 
 Instructions of how to run these models on the two tasks are described in their README files. Before trying them, you need to first download the dataset and unzip it into the folder ./Dataset. The file tree should be like
 
@@ -21,7 +21,10 @@ Instructions of how to run these models on the two tasks are described in their 
 |   +-- basic_profile.json
 |   +-- text_profile.json
 ```
-## Data Download
+## DataSet
+### Download
 We will public all our data soon!
+
+### Introduction
 
 ## Citation
