@@ -97,7 +97,7 @@ if __name__ == "__main__":
     parser.add_argument("--max_train_samples", default=400000, type=int)
     parser.add_argument("--max_val_samples", default=10000, type=int)
     parser.add_argument("--seed", default=20, type=int)
-    parser.add_argument("--data_dir", default="./dataset", type=str)
+    parser.add_argument("--data_dir", default="ProcessedData/AddresseeRecognition", type=str)
     parser.add_argument("--do_train", action='store_true', default=False)
     parser.add_argument("--do_eval", action='store_true', default=False)
     parser.add_argument("--do_test", action='store_true', default=False)
@@ -122,7 +122,7 @@ if __name__ == "__main__":
     for key in data_files:
         if args.add_id:
             print("load ID")
-            persona_id_path = "./personaId_list.json"
+            persona_id_path = "ProcessedData/basic_profile.json"
             datasets[key] = load_pk_persona(data_files[key], persona_id_path)
         else:
             print("load no persona!")
