@@ -39,7 +39,7 @@ $ pip install -r requirements.txt
 ## DataSet
 ### Download
 Please refer to dataset [README.md](https://github.com/gaojingsheng/LiveChat/blob/master/Dataset/README.md)
-### Introduction
+
 
 ## Citation
 If you find our paper and repository useful, please cite us in your paper:
