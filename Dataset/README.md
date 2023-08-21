@@ -1,5 +1,7 @@
 # Processed Dataset for LiveChat
 
+The processed dataset can be downloaded from a Google [Drive](https://drive.google.com/drive/folders/1q2GXfeNRN5bOr2Hc5aDneiBXXVfGN45V?usp=sharing)
+
 The tree structure of the process dataset is as follows:
 ```
 .
@@ -55,3 +57,8 @@ This includes the basic profile of the streamers, where some characteristics of 
 
 This includes the text profile (max_length is 512) of the streamers used in our paper. 
 
+
+
+## Notification
+
+The statistical quantities of the processed data may have slight discrepancies from those mentioned in the paper. This is because the statistical analysis in the paper was based on the earliest version of multi-party dialogues.
