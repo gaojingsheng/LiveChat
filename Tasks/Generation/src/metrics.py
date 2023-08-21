@@ -84,7 +84,7 @@ def cal_ppl(input_list):
     return 1
 
 if __name__ == "__main__":
-    eva_generation_path = "/mnt/user/gaojingsheng/project/chitchat/EVA/results/douyin_finetune_64_deprefix_haha/generation.json"
+    eva_generation_path = "generation.json"
     total_data = json.load(open(eva_generation_path,"rb"))
     # dev_data = pk.load(open("dataset_withpersona/dev_data.pk","rb"))
     generate_corpus = []
